@@ -1,0 +1,2 @@
+# BombNinja
+Ninjarへのメッセージを送るツール
