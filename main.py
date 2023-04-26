@@ -48,7 +48,7 @@ def ninjar_spammer(url,txt,randomstr):
     session=cloudscraper.CloudScraper()
     result=session.get(url).text
     uname=re.findall("users/(.*)/themes",url)
-    ua = fake_useragent.FakeUserAgent.safari()
+    ua = fake_useragent.FakeUserAgent.safari
     content=random.choice(txt)
     if randomstr in ["yes","y"]:
         content += "\n" + "".join(random.choices("ABCDWFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz",k=8))
