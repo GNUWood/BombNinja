@@ -2,7 +2,7 @@
 
 
 
-![banner.png](/image/banner.ping)
+![banner.png](./image/banner.ping)
 
 BombNinjaは、質問箱サービス「Ninjar」専用のスパムツールです。
 
