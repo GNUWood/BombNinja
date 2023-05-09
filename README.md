@@ -38,7 +38,7 @@ BombNinjaは、質問箱サービス「Ninjar」専用のスパムツールで�
 
 ## 使い方
 
-1. [Ninjar]([https://www.ninjar.jp/)より、ユーザー名("https://www.ninjar.jp/users"の後の部分)をコピーする。
+1. [Ninjar]([https://www.ninjar.jp/)より、ユーザー名("https://www.ninjar.jp/users" の後の部分)をコピーする。
 
 2. 同梱されている ninjar.txt に、送りたい文章を入力する。（改行することでランダムに送ることが出来る。）
 
